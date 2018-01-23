@@ -1,0 +1,29 @@
+html{
+	font-size: 10px;
+	font-family: 'Supermercado One', cursive;
+	background-color: #F8E0E0;
+}
+
+img[image/mycat.jpeg]{
+	display: block;
+	margin: 0 auto;	
+}
+
+h2{
+	font-size: 60px;
+	text-align: center;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2; 
+	letter-spacing: 1px;
+}
+
+body {
+  width: 650px;
+  margin: 0 auto;
+  background-color: #F8E0E0;
+  padding: 0 0 0 10px;
+  border: 5px solid black;
+}
